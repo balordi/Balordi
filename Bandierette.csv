@@ -1,4 +1,4 @@
-Italia,verde,bianco,rosso
-Francia,blu,bianco,rosso
-Germania,nero,rosso,oro
-Spagna,rosso,giallo
+Italia,verde,bianco,rosso,False,verticale
+Francia,blu,bianco,rosso,False,verticale
+Germania,nero,rosso,oro,False,orizzontale
+Spagna,rosso,giallo,True,orizzontale
