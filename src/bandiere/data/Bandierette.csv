@@ -1,4 +1,5 @@
-Italia,verde,bianco,rosso,False,verticale
-Francia,blu,bianco,rosso,False,verticale
-Germania,nero,rosso,oro,False,orizzontale
-Spagna,rosso,giallo,no,True,orizzontale
+Stato,Colori,Simbolo?,Orientamento
+Italia,verde bianco rosso,False,verticale
+Francia,blu bianco rosso,False,verticale
+Germania,nero rosso oro,False,orizzontale
+Spagna,rosso giallo,True,orizzontale

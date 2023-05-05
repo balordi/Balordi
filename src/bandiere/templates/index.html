@@ -17,11 +17,23 @@
             <header>
                 <h1>Indovino la bandiera</h1>
             </header>
+            
+            <div id="flagformcard">
+              <form method="POST">
+                  <input name="prompt" id="colore">
+                  <label for="colore">Colori</label><br>
+                  <input type="checkbox" name="simbolo" id="checksimbolo">
+                  <label for="checksimbolo">Simbolo?</label><br>
+                  <input type="radio" name="orientamento" id="sim1" value="orizzontale">
+                  <label for="sim1">Orizzontale</label><br>
+                  <input type="radio" name="orientamento" id="sim2" value="verticale">
+                  <label for="sim2">Verticale</label><br>
+                  <input type="radio" name="orientamento" id="sim3" value="croce">
+                  <label for="sim3">Croce</label><br>
+                  <input type="submit" value="Indovina!">
+              </form>
+            </div>
 
-            <form method="POST">
-                <input name="prompt">
-                <input type="submit">
-            </form>
         </main>
     </body>
 </html>

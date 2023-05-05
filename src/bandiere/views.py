@@ -11,5 +11,14 @@ def index():
 
 @app.route('/', methods=['POST'])
 def index_post():
-    p = request.form['prompt']
-    return render_template("res.html", data=akinator(p, bandiere))
+    colori = request.form['prompt']
+    simbolo = False
+    orientamento = request.form['orientamento']
+
+    if request.form.get('simbolo'):
+        simbolo = True
+
+    c = [colori, simbolo, orientamento]
+    print(str(c))
+
+    return render_template("res.html", data=akinator(c, bandiere))

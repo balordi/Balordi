@@ -18,8 +18,12 @@ def carica_dizio():
 
 # Domanda
 def akinator(caratteristiche_input, bandiere):
-    caratteristiche_input = str(caratteristiche_input).split()
+    #caratteristiche_input = str(caratteristiche_input).split()
+
     for paese, colori_bandiera in bandiere.items():
-        if set(caratteristiche_input) == set(colori_bandiera[:-2]):
+        caratteristiche_input[1] = str(caratteristiche_input[1])
+        print('ce: ' + str(caratteristiche_input))
+        print('controllato: ' + str(colori_bandiera))
+        if set(caratteristiche_input) == set(colori_bandiera):
             return paese
     return 'Paese non trovato'
