@@ -12,4 +12,4 @@ def index():
 @app.route('/', methods=['POST'])
 def index_post():
     p = request.form['prompt']
-    return render_template("index.html", data=akinator(p, bandiere))
+    return render_template("res.html", data=akinator(p, bandiere))
