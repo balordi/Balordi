@@ -17,5 +17,11 @@ install-reqs-user:
 install-reqs:
 	pip install -r $(REQUIREMENTS) $(PIP_FLAGS)
 
+install:
+	pip install $(PIP_FLAGS) .
+
+install-user:
+	pip install $(PIP_FLAGS) . $(PIP_USER_FLAGS)
+
 run:
 	python -m flask --app $(APP_PATH) $(FLASK_CMD)
