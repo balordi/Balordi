@@ -1,5 +1,51 @@
 Stato,Colori,Simbolo?,Orientamento
-Italia,verde bianco rosso,False,verticale
+Albania,rosso,True,na
+Andorra,blu giallo rosso,True,verticale
+Armenia,rosso blu giallo,False,orizzontale
+Austria,rosso bianco rosso,False,orizzontale
+Azerbaigian,blu rosso verde,True,orizzontale
+Belgio,nero giallo rosso,Flase,verticale
+Bielorussia,rosso verde,True,orizzontale
+Bosnia ed Erzegovina,blu giallo blu,True,verticale
+Bulgaria,bianco verde rosso,False,orizzontale
+Cipro,bianco,True,na
+Città del Vaticano,giallo bianco,True,verticale
+Croazia,rosso bianco blu,True,orizzontale
+Danimarca,rosso bianco,False,croce
+Estonia,blu nero bianco,False,orizzontale
+Finlandia,bianco blu,False,croce
 Francia,blu bianco rosso,False,verticale
+Georgia,bianco rosso,True,croce
 Germania,nero rosso oro,False,orizzontale
+Grecia,blu bianco,True,orizzontale
+Irlanda,verde bianco arancio,False,verticale
+Islanda,blu bianco rosso,False,croce
+Italia,verde bianco rosso,False,verticale
+Kazakistan,blu giallo,True,na
+Lettonia,rosso bianco rosso,False,orizzontale
+Liechenstein,blu rosso,True,orizzontale
+Lituania,giallo verde rosso,False,orizzontale
+Lussemburgo,rosso bianco blu,False,orizzontale
+Macedonia del Nord,giallo rosso,True,na
+Malta,bianco rosso,True,verticale
+Moldavia,blu giallo rosso,True,verticale
+Monaco,rosso bianco,False,orizzontale
+Montenegro,giallo rosso,True,na
+Norvegia,rosso bianco blu,False,croce
+Paesi Bassi,rosso bianco blu,False,orizzontale
+Polonia,bianco rosso,False,orizzontale
+Portogallo,verde rosso,True,verticale
+Regno Unito,blu bianco rosso,False,croce
+Repubblica Ceca,blu bianco rosso,False,na
+Romania,blu giallo rosso,False,verticale
+Russia,bianco blu rosso,False,orizzontale
+San Marino,bianco azzurro,True,orizzontale
+Serbia,rosso blu bianco,True,orizzontale
+Slovacchia,bianco blu rosso,True,orizzontale
+Slovenia,bianco blu rosso blu,True,orizzontale
 Spagna,rosso giallo,True,orizzontale
+Svezia,blu giallo,False,croce
+Svizzera,rosso bianco,False,croce
+Turchia,rosso,True,na
+Ucraina,blu giallo,False,orizzontale
+Ungheria,rosso bianco verde,False,orizzontale
