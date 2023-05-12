@@ -49,15 +49,6 @@ header {
     display: flex;
     align-self: center;
 }
-img {
-    max-width: 400px;
-    max-height: 200px;
-    width: auto;
-    height: auto;
-    margin: 5% 5% 5% 5%;
-    align-self: center;
-    display: flex;
-}
 
 .shaded {
     box-shadow: 0px 0px 5px gray;
@@ -110,6 +101,30 @@ img {
     display: flex;
     flex-direction: column;
     align-self: center;
+}
+#country {
+    max-width: 400px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+    margin: 5% 5% 5% 5%;
+    align-self: center;
+    display: flex;
+}
+#autore {
+    max-width: 800px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+    margin: 5% 5% 5% 5%;
+    align-self: center;
+    display: flex;
+}
+#quote {
+    align-self: center;
+    font-size: 15px;
+    margin: 1% 10% 5% 10%;
+    color: black;
 }
 
 @media (min-height: 2160px) {

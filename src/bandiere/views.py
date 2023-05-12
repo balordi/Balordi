@@ -22,3 +22,7 @@ def index_post():
     print(str(c))
 
     return render_template("res.html", data=akinator(c, bandiere))
+
+@app.route('/autori')
+def autori():
+    return render_template("autori.html")
