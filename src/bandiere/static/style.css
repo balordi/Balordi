@@ -103,8 +103,8 @@ header {
     align-self: center;
 }
 #country {
-    max-width: 400px;
-    max-height: 200px;
+    max-width: 35%;
+    max-height: 20%;
     width: auto;
     height: auto;
     margin: 5% 5% 5% 5%;
@@ -112,8 +112,8 @@ header {
     display: flex;
 }
 #autore {
-    max-width: 800px;
-    max-height: 400px;
+    max-width: 50%;
+    max-height: 35%;
     width: auto;
     height: auto;
     margin: 5% 5% 5% 5%;
